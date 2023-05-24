@@ -42,6 +42,7 @@ Los procedimientos para resolver el problema son:
 
 
 
+
 ## [Triggers](ddl.sql):
 
 
